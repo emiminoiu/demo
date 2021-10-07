@@ -1,5 +1,7 @@
 {
-  "id": 1,
-  "firstName": "George Emilian",
-  "lastName": "Minoiu"
+  "user": {
+     "id": 1,
+     "firstName": "Anthony",
+    "lastName": "Sistilli"
+  }
 }
